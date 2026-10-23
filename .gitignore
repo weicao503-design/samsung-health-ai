@@ -1,0 +1,17 @@
+# Build
+build/
+.gradle/
+.kotlin/
+*.apk
+*.aab
+local.properties
+.idea/
+*.iml
+.DS_Store
+# Signing (never commit)
+keystore/
+keystore.properties
+*.jks
+*.keystore
+# Samsung SDK (download yourself, see README)
+app/libs/*.aar
