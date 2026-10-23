@@ -1,0 +1,9 @@
+<resources>
+  <color name="ok">#81C995</color>
+  <color name="ok_bg">#1F3326</color>
+  <color name="warn">#FDD663</color>
+  <color name="warn_bg">#3A3020</color>
+  <color name="err">#F28B82</color>
+  <color name="err_bg">#3C2422</color>
+  <color name="ic_bg">#1D3330</color>
+</resources>
