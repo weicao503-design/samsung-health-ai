@@ -1,0 +1,10 @@
+<resources>
+  <style name="Theme.HealthSync" parent="Theme.Material3.DayNight.NoActionBar">
+    <item name="colorPrimary">#0E9F8C</item>
+    <item name="colorOnPrimary">#FFFFFF</item>
+    <item name="colorPrimaryContainer">#C8F0E8</item>
+    <item name="colorOnPrimaryContainer">#00201B</item>
+    <item name="colorSecondary">#4A635E</item>
+    <item name="colorTertiary">#E8505B</item>
+  </style>
+</resources>

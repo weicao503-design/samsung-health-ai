@@ -1,0 +1,24 @@
+<resources>
+  <string name="app_name">健康同步</string>
+  <string name="subtitle">三星手表健康数据 → Google 云端硬盘</string>
+  <string name="sec_status">同步状态</string>
+  <string name="row_last">上次同步</string>
+  <string name="row_hc">Health Connect(备用)</string>
+  <string name="row_drive">Google 云端硬盘</string>
+  <string name="sync_now">立即同步</string>
+  <string name="sync_hint">每 6 小时会自动同步一次</string>
+  <string name="sec_setup">设置</string>
+  <string name="grant">授予 Health Connect 权限(备用)</string>
+  <string name="grant_sh">授予三星健康权限</string>
+  <string name="row_sh">三星健康权限</string>
+  <string name="drive_signin">登录 Google 云端硬盘</string>
+  <string name="drive_off">关闭云端硬盘上传</string>
+  <string name="share">分享数据文件</string>
+  <string name="sec_adv">高级设置(一般不用改)</string>
+  <string name="adv_url">自定义上传地址(可选)</string>
+  <string name="adv_token">访问令牌(可选)</string>
+  <string name="adv_days">每次同步最近几天</string>
+  <string name="save">保存设置</string>
+  <string name="sec_log">最近消息</string>
+  <string name="privacy">隐私政策</string>
+</resources>

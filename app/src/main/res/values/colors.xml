@@ -1,0 +1,12 @@
+<resources>
+  <color name="brand">#0E9F8C</color>
+  <color name="brand_dark">#0B7A6C</color>
+  <color name="heart">#E8505B</color>
+  <color name="ok">#1E8E3E</color>
+  <color name="ok_bg">#E6F4EA</color>
+  <color name="warn">#B26A00</color>
+  <color name="warn_bg">#FFF4E0</color>
+  <color name="err">#C5221F</color>
+  <color name="err_bg">#FCE8E6</color>
+  <color name="ic_bg">#E6F6F3</color>
+</resources>
